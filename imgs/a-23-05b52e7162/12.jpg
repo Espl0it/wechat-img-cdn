@@ -1,0 +1,36 @@
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520.5 686.01" width="100%" style="vertical-align: middle; max-width: 100%; width: 100%;">
+   <g>
+    <g>
+     <rect x="241.18" y="547.55" width="50.85" height="95.16" fill="rgb(49,143,172)">
+     </rect>
+     <path d="M266.55,551.43a196.4,196.4,0,0,1-191.7-153.8l44.45-9.82A150.87,150.87,0,0,0,266.55,505.9c83.15,0,150.8-67.65,150.8-150.8a150.84,150.84,0,0,0-86.08-136.25l19.56-41.1a196.32,196.32,0,0,1,112,177.35C462.87,463.36,374.8,551.43,266.55,551.43Z" fill="rgb(76,171,201)">
+     </path>
+     <rect x="280.27" y="57.75" width="98.29" height="251.75" transform="translate(237.17 -182.05) rotate(46.71)" fill="rgb(203,223,232)">
+     </rect>
+     <rect x="359.95" y="-2.33" width="66.46" height="251.75" transform="translate(213.48 -247.34) rotate(46.71)" fill="rgb(203,223,232)">
+     </rect>
+     <rect x="362.3" y="82.51" width="125.88" height="21.65" rx="10.83" transform="translate(201.57 -280.18) rotate(46.71)" fill="rgb(49,143,172)">
+     </rect>
+     <rect x="183.53" y="210.99" width="125.88" height="98.24" rx="12.57" transform="translate(266.77 -97.65) rotate(46.71)" fill="rgb(49,143,172)">
+     </rect>
+     <rect x="437.69" y="26.41" width="94.21" height="21.65" rx="10.83" transform="translate(179.44 -341.15) rotate(46.71)" fill="rgb(49,143,172)">
+     </rect>
+     <circle cx="370.44" cy="212.49" r="41.69" fill="rgb(49,143,172)">
+     </circle>
+     <circle cx="370.44" cy="212.49" r="22.56" fill="rgb(255, 177, 25)">
+     </circle>
+     <rect x="16.34" y="404.24" width="170.74" height="21.72" rx="10.86" fill="rgb(203,223,232)">
+     </rect>
+     <rect y="376.61" width="203.42" height="32.22" rx="16.11" fill="rgb(49,143,172)">
+     </rect>
+     <rect x="164.9" y="637.68" width="203.42" height="32.22" rx="16.11" fill="rgb(203,223,232)">
+     </rect>
+     <rect x="61.98" y="653.79" width="409.25" height="32.22" rx="16.11" fill="rgb(49,143,172)">
+     </rect>
+     <circle cx="266.55" cy="528.67" r="53.31" fill="rgb(49,143,172)">
+     </circle>
+     <circle cx="266.55" cy="528.67" r="28.7" fill="rgb(255, 177, 25)">
+     </circle>
+    </g>
+   </g>
+  </svg>
