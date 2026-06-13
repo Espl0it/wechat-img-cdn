@@ -1,0 +1,30 @@
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 387.84 563.86" width="100%" style="vertical-align: middle; max-width: 100%; width: 100%;">
+   <g>
+    <g>
+     <path d="M8.43,54.84A97.49,97.49,0,0,1,146.29,192.71Z" fill="rgb(76,171,201)">
+     </path>
+     <rect x="84.64" y="361.4" width="359.32" height="26.93" transform="translate(704.41 245.69) rotate(108.83)" fill="rgb(76,171,201)">
+     </rect>
+     <circle cx="134.06" cy="532.09" r="14.45" fill="rgb(255, 177, 25)">
+     </circle>
+     <rect x="56.97" y="532.09" width="228.82" height="31.77" rx="15.88" fill="rgb(49,143,172)">
+     </rect>
+     <rect x="126.02" y="114.36" width="237.48" height="19.86" transform="translate(159.58 -136.67) rotate(45)" fill="rgb(76,171,201)">
+     </rect>
+     <rect x="319.13" y="221.25" width="73.84" height="8.16" transform="translate(263.62 -185.77) rotate(45)" fill="rgb(49,143,172)">
+     </rect>
+     <circle cx="327.06" cy="206.59" r="24.88" fill="rgb(49,143,172)">
+     </circle>
+     <circle cx="379.27" cy="248.54" r="8.57" fill="rgb(255, 177, 25)">
+     </circle>
+     <rect x="-29.59" y="121.07" width="210.68" height="8.62" rx="4.31" transform="translate(110.85 -16.84) rotate(45)" fill="rgb(49,143,172)">
+     </rect>
+     <path d="M167.31.05h0A33.95,33.95,0,0,1,201.25,34V67.6a0,0,0,0,1,0,0H133.36a0,0,0,0,1,0,0V34A33.95,33.95,0,0,1,167.31.05Z" transform="translate(72.92 -108.4) rotate(45)" fill="rgb(49,143,172)">
+     </path>
+     <rect x="103.39" y="55.62" width="76.6" height="7.66" rx="3.63" transform="translate(83.53 -82.78) rotate(45)" fill="rgb(255, 177, 25)">
+     </rect>
+     <path d="M42.59,61a6.66,6.66,0,0,1-4-12C46,43.48,57.15,39.44,69.14,37.91a6.66,6.66,0,1,1,1.69,13.22c-14.29,1.82-22.18,7-24.26,8.56A6.65,6.65,0,0,1,42.59,61Z" fill="rgb(203,223,232)">
+     </path>
+    </g>
+   </g>
+  </svg>
